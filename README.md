@@ -22,6 +22,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/TIove/DevTools/pull/1) in [TIove/DevTools](https://github.com/TIove/DevTools)
 <!--END_SECTION:activity-->
 </details>
 
