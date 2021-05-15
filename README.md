@@ -26,8 +26,6 @@
 <!--END_SECTION:activity-->
 </details>
 
----
-
 <details>
  <summary>:zap: Recent GitHub Stats</summary>
 
@@ -35,6 +33,10 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![Nikita's time stat](https://github-readme-stats.vercel.app/api/wakatime?username=DUNNIK&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 
