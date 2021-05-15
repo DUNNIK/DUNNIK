@@ -15,7 +15,11 @@
 [<img align="left" alt="Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
-<br>
+<br />
+
+---
+
+[![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
