@@ -31,10 +31,10 @@
 <details>
  <summary>:zap: Recent GitHub Stats</summary>
 
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK&show_icons=true&theme=chartreuse-dark)
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK&show_icons=true&theme=chartreuse-dark&count_private=true)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
