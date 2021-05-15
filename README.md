@@ -19,9 +19,19 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  # Blog posts
+<!-- ACTIVITY:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Stats</summary>
 [![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 
 [telegram]: https://t.me/dunaevnikita
 [instagram]: https://instagram.com/_dunnik
