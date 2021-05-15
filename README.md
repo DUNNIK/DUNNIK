@@ -22,8 +22,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   # Blog posts
-<!-- ACTIVITY:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <details>
