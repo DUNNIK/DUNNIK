@@ -28,6 +28,7 @@
 <details>
   <summary>:zap: Recent GitHub Stats</summary>
 [![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 </details>
 
