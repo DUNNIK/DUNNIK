@@ -28,11 +28,9 @@
 
 ---
 
-[![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK)](https://github.com/anuraghazra/github-readme-stats)
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK&count_private=true)
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK&show_icons=true)
+
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUNNIK&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=DUNNIK&theme=chartreuse-dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=DUNNIK&theme=chartreuse-dark)
