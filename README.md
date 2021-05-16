@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Telegram" width="22px" src="https://github.com/DUNNIK/DUNNIK/blob/main/icons/TelegramIcon.svg" />][telegram]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/DUNNIK/DUNNIK/blob/main/icons/InstagramIcon.svg" />][instagram]
+[<img align="left" alt="Vk" width="22px" src="https://github.com/DUNNIK/DUNNIK/blob/main/icons/VkIcon.svg" />][vk]
 
 <br />
 <br />
