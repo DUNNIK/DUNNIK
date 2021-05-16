@@ -17,14 +17,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TIove/DevTools/pull/1) in [TIove/DevTools](https://github.com/TIove/DevTools)
-<!--END_SECTION:activity-->
-</details>
-
 <details>
  <summary>:zap: Recent GitHub Stats</summary>
 
@@ -34,6 +26,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUNNIK&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/TIove/DevTools/pull/1) in [TIove/DevTools](https://github.com/TIove/DevTools)
+<!--END_SECTION:activity-->
+</details>
+
 
 
 
