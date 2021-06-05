@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TIove/DevTools/pull/1) in [TIove/DevTools](https://github.com/TIove/DevTools)
+1. 🎉 Merged PR [#2](https://github.com/DUNNIK/YoPlugin/pull/2) in [DUNNIK/YoPlugin](https://github.com/DUNNIK/YoPlugin)
 <!--END_SECTION:activity-->
 </details>
 
