@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DUNNIK/YoPlugin/pull/4) in [DUNNIK/YoPlugin](https://github.com/DUNNIK/YoPlugin)
+1. 🎉 Merged PR [#5](https://github.com/DUNNIK/YoPlugin/pull/5) in [DUNNIK/YoPlugin](https://github.com/DUNNIK/YoPlugin)
 <!--END_SECTION:activity-->
 </details>
 
