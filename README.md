@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on student projects
 - 🌱 I’m currently learning everything
-- 🤔 I’m looking for a developer job
+- 🤔 Now I'm not coding anymore, I've become an entrepreneur
 - 💬 Ask me about everything
 
 ### Connect with me:
