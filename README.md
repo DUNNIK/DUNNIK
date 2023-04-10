@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikita 👋
 
 
-## I'm a Developer and Student!!
+## I'm a Entrepreneur and Student!!
 
 - 🔭 I’m currently working on student projects
 - 🌱 I’m currently learning everything
